@@ -1,0 +1,15 @@
+/home/misha/Desktop/ final_project/part_2/bin/Debug/net6.0/part_2
+/home/misha/Desktop/ final_project/part_2/bin/Debug/net6.0/part_2.deps.json
+/home/misha/Desktop/ final_project/part_2/bin/Debug/net6.0/part_2.runtimeconfig.json
+/home/misha/Desktop/ final_project/part_2/bin/Debug/net6.0/part_2.dll
+/home/misha/Desktop/ final_project/part_2/bin/Debug/net6.0/part_2.pdb
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.csproj.AssemblyReference.cache
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.AssemblyInfoInputs.cache
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.AssemblyInfo.cs
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.csproj.CoreCompileInputs.cache
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.dll
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/refint/part_2.dll
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.pdb
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/part_2.genruntimeconfig.cache
+/home/misha/Desktop/ final_project/part_2/obj/Debug/net6.0/ref/part_2.dll
